@@ -1,0 +1,23 @@
+_repo: Women-in-the-Life-of-Balzac_3164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Floyd, Juanita Helm
+    birthdate: 1880
+    gutenberg_agent_id: '1128'
+    url: http://www.gutenberg.org/2009/agents/1128
+description: ''
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balzac, Honoré de, 1799-1850'
+- !lcc 'PQ'
+- GITenberg
+title: Women in the Life of Balzac
+url: http://www.gutenberg.org/ebooks/3164
